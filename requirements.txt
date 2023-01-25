@@ -13,3 +13,4 @@ pyssim
 scikit-image
 astropy
 opencv-python
+ipykernel
